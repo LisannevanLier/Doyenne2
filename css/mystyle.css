@@ -30,3 +30,42 @@
 	margin-bottom: 50px;
 	
 }
+
+.rowcolumn{ align-items: center;
+	align-content: center;
+}
+
+.card-title{
+    font-family: "park lane";
+    font-size: 30px;
+    align-content: center;
+    text-align: center;		
+}
+
+.card-body{
+    align-content: center;
+	margin-top: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.card-text{ 
+	margin-top: 20px;
+	font-family: "amazing infographic";
+}
+
+.card{ 
+	margin-top: 40px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.card-image{
+    align-content: center;
+    margin-top: 20px;
+    text-align: center;
+	
+
+}
+
