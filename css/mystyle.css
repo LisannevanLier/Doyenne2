@@ -23,12 +23,17 @@
 	margin-left: 40px;
 }
 
+.row{
+    position: center;
+    right: 56px;
+}
+
 .column{ 
 	margin-left: 120px;
 	margin-right: 120px;
 	margin-top: 50px;
 	margin-bottom: 50px;
-	
+	position: center; 
 }
 
 
@@ -52,7 +57,6 @@
 }
 
 .column{
-    background-color: #D7ABFF;
     margin-top: 60px;
     margin-right: 20px;
     margin-left: 20px;
