@@ -31,6 +31,39 @@
 	
 }
 
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 40%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 40px;
+}
+
+.text{
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 60px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.column{
+    background-color: #D7ABFF;
+    margin-top: 60px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 60px;
+    align-items: center;
+    width: 250px;
+    height: 250px;
+    padding-top: 20px;
+    text-align: center;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
 .rowcolumn{ align-items: center;
 	align-content: center;
 }
