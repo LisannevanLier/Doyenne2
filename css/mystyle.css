@@ -71,12 +71,18 @@
 
 .row{ 
 	   position: absolute;
-   top: 120%;
+   top: 100%;
    left: 50%;
    width: 800px;
    height: 500px;
    margin-top: -250px; /* Half the height */
    margin-left: -350px; /* Half the width */
+}
+
+.titleindex{
+	text-align: center;
+	font-family: "Permanent Marker", "sans-serif"
+	
 }
 
 .columnimges2{
@@ -116,6 +122,25 @@
     align-content: center;
     margin-top: 20px;
     text-align: center;
-	
+}
 
+.btn-outline-secondary{
+	align-items: center;
+	color: grey;
+	align-content: center;
+	font-family: "Amazing Infographic@"
+}
+
+.card-imgindex{
+	align-items: center;
+}
+
+.card-text{
+	font-family: "Amazing Infographic@"
+}
+
+.card-text2{
+	color: black;
+	font-family:  Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+		
 }
