@@ -31,8 +31,10 @@
 	
 }
 
-.rowcolumn{ align-items: center;
-	align-content: center;
+.rowcolumn{
+    align-items: center;
+    align-content: center;
+    width: 0px;
 }
 
 .card-title{
@@ -68,4 +70,3 @@
 	
 
 }
-
