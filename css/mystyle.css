@@ -69,15 +69,21 @@
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 }
 
-.rowcolumn{ align-items: center;
-	align-content: center;
+.row{ 
+	   position: absolute;
+   top: 120%;
+   left: 50%;
+   width: 800px;
+   height: 500px;
+   margin-top: -250px; /* Half the height */
+   margin-left: -350px; /* Half the width */
+}
+
+.columnimges2{
+    margin-left: 150px;
+    margin-right: 150px;
 	
-} 
-	
-.rowcolumn{
-    align-items: center;
-    align-content: center;
-    width: 0px;
+
 }
 
 .card-title{
