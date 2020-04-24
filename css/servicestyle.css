@@ -31,11 +31,32 @@
 }
 
 .column{ 
-	margin-left: 120px;
-	margin-right: 120px;
-	margin-top: 50px;
-	margin-bottom: 50px;
-	position: center; 
+	position: absolute;
+	top: 80%;
+	left: 10%;
+	width: 500px;
+	height: 500px;
+	margin-top: -250px;
+	margin-left: -250px;
+}
+.column1
+{position: absolute;
+	top: 93%;
+	left: 40%;
+	width: 500px;
+	height: 500px;
+	margin-top: -250px;
+	margin-left: -250px;
+}
+
+.column2
+{ position: absolute;
+	top: 94%;
+	left: 70%;
+	width: 500px;
+	height: 500px;
+	margin-top: -250px;
+	margin-left: -250px;
 }
 
 
@@ -70,6 +91,31 @@
     text-align: center;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 }
+.column1{ 
+margin-top: 60px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 60px;
+    align-items: center;
+    width: 250px;
+    height: 250px;
+    padding-top: 20px;
+    text-align: center;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";}
+
+.column2 { 
+margin-top: 60px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 60px;
+    align-items: center;
+    width: 250px;
+    height: 250px;
+    padding-top: 20px;
+    text-align: center;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";}
+
+
 
 .row{ 
 	   position: absolute;
@@ -118,7 +164,9 @@
 	margin-top: 40px;
 	margin-left: 20px;
 	margin-right: 20px;
+	
 }
+
 
 .card-image{
     align-content: center;
