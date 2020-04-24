@@ -125,30 +125,13 @@
 .row-cols-1{ 
 	width: 100%;
 	align-content: center;
-	height: 150%;
+	height: 210%;
 	
 }
 
 .row-cols-md-2{ 
 	width: 100%;
-	height: 150%;
+	height: 210%;
 	align-content: center;
 }
 
-.btn-outline-secondary{
-	align-items: center;
-	color: grey;
-	align-content: center;
-	font-family: "Amazing Infographic@"
-}
-
-.card-imgindex{
-	align-items: center;
-}
-
-
-.card-text2{
-	color: black;
-	font-family:  Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
-		
-}
