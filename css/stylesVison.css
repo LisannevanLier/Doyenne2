@@ -1,6 +1,6 @@
 @charset "utf-8";
 .menubar{ 
-	background-color: #D7ABFf; 
+	background-color: #D7ABFF; 
 }
 .navbutts { 
 	display: flex;
@@ -9,24 +9,35 @@
 .mybutt:hover { 
 	background-color: #ffaaad;	
 }
+
 .mybutt { 
-	width: 145px;
-	height: 60px;
-	font-size: 25px;
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	width: 200px;
+	height: 70px;
+	color: black;
+	font-size: 27px;
+	font-family: "Permanent Marker", "sans-serif";
 	text-color: #000000;
-	margin-right: 8px;
-	border-radius: 20px;
+	margin-right: 30px;
+	border-radius: 50px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	margin-left: 40px;
+	margin-left: 30px;
 }
 
+.list-group{
+	color: black;
+}
 body {
     background-color: #FDFDFD;
-    color: #FF4444;
-    font-family: 'Amazing Infographic@';
-	
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 }
 	
+.col-6{
+	color: #fd0f62;
+}
+
+.titles{
+	font-family: "Permanent Marker", "sans-serif";
+	color: #ffaaad;
+}
