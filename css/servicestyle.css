@@ -44,14 +44,15 @@
     right: 56px;
 }
 
-.column{ 
-	position: absolute;
-	top: 80%;
-	left: 10%;
-	width: 500px;
-	height: 500px;
-	margin-top: -250px;
-	margin-left: -250px;
+.column{
+    position: absolute;
+    top: 80%;
+    left: 10%;
+    width: 500px;
+    height: 500px;
+    margin-top: -250px;
+    margin-left: -250px;
+    font-weight: 400;
 }
 .column1
 {position: absolute;
@@ -103,7 +104,7 @@
     height: 250px;
     padding-top: 20px;
     text-align: center;
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-family: perm
 }
 .column1{ 
 margin-top: 60px;
