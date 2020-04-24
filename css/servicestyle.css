@@ -230,3 +230,8 @@ margin-top: 60px;
 	  position: absolute;
 	  top: 150%;
 }
+
+.text-center{
+	font-family: "Permanent Marker", "sans-serif";
+	color: #ffaaad;
+}
