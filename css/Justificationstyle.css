@@ -1,7 +1,9 @@
 @charset "utf-8";
-.menubar{ 
-	background-color: #D7ABFF; 
+.menubar{
+    background-color: #D7ABFF;
+    text-align: center;	
 }
+
 .navbutts { 
 	display: flex;
 	flex-direction: row;
@@ -9,6 +11,8 @@
 .mybutt:hover { 
 	background-color: #ffaaad;	
 }
+
+
 .mybutt { 
 	width: 200px;
 	height: 70px;
@@ -23,6 +27,7 @@
 	align-items: center;
 	margin-left: 30px;
 }
+
 
 .row{
     position: center;
