@@ -1,0 +1,43 @@
+@charset "utf-8";
+.menubar{ 
+	background-color: #D7ABFF; 
+}
+.navbutts { 
+	display: flex;
+	flex-direction: row;
+}
+.mybutt:hover { 
+	background-color: #ffaaad;	
+}
+
+.mybutt { 
+	width: 200px;
+	height: 70px;
+	color: black;
+	font-size: 27px;
+	font-family: "Permanent Marker", "sans-serif";
+	text-color: #000000;
+	margin-right: 30px;
+	border-radius: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-left: 30px;
+}
+
+.list-group{
+	color: black;
+}
+body {
+    background-color: #FDFDFD;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+	
+.col-6{
+	color: #fd0f62;
+}
+
+.titles{
+	font-family: "Permanent Marker", "sans-serif";
+	color: #ffaaad;
+}
