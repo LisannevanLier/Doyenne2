@@ -1,41 +1,77 @@
 @charset "utf-8";
-.menubar{ 
-	background-color: #D7ABFF; 
-}
-.navbutts { 
-	display: flex;
-	flex-direction: row;
-}
-.mybutt:hover { 
-	background-color: #ffaaad;	
+/* Add a #d7abff background color to the top navigation */
+.topnav {
+    background-color: #d7abff;
+    overflow: hidden;
 }
 
-.mybutt { 
-	width: 200px;
-	height: 70px;
-	color: black;
-	font-size: 27px;
-	font-family: "Permanent Marker", "sans-serif";
-	text-color: #000000;
-	margin-right: 30px;
-	border-radius: 50px;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	margin-left: 30px;
+/* Style the links inside the navigation bar */
+.topnav a {
+    color: #f2f2f2;
+    padding-top: 10px;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-bottom: 20px;
+    text-decoration: none;
+    font-size: 27px;
+    font-family: "permanent-marker";
+    margin-left: 25px;
+    margin-bottom: 25px;
+    margin-right: 25px;
+    font-style: normal;
+    font-weight: 400;
+    vertical-align: 20px;
 }
 
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ffaaad;
+}
+
+/* Add an active class to highlight the current page */
+.topnav a.active {
+  background-color: #ffaaad;
+  color: white;
+	
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+  display: none;
+}
 .row{
     position: center;
     right: 56px;
 }
 
-.column{ 
-	margin-left: 120px;
-	margin-right: 120px;
-	margin-top: 50px;
-	margin-bottom: 50px;
-	position: center; 
+.column{
+    position: absolute;
+    top: 80%;
+    left: 10%;
+    width: 500px;
+    height: 500px;
+    margin-top: -250px;
+    margin-left: -250px;
+    font-weight: 400;
+}
+.column1
+{position: absolute;
+	top: 93%;
+	left: 40%;
+	width: 500px;
+	height: 500px;
+	margin-top: -250px;
+	margin-left: -250px;
+}
+
+.column2
+{ position: absolute;
+	top: 94%;
+	left: 70%;
+	width: 500px;
+	height: 500px;
+	margin-top: -250px;
+	margin-left: -250px;
 }
 
 
@@ -68,8 +104,33 @@
     height: 250px;
     padding-top: 20px;
     text-align: center;
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-family: perm
 }
+.column1{ 
+margin-top: 60px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 60px;
+    align-items: center;
+    width: 250px;
+    height: 250px;
+    padding-top: 20px;
+    text-align: center;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";}
+
+.column2 { 
+margin-top: 60px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 60px;
+    align-items: center;
+    width: 250px;
+    height: 250px;
+    padding-top: 20px;
+    text-align: center;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";}
+
+
 
 .row{ 
 	   position: absolute;
@@ -118,7 +179,9 @@
 	margin-top: 40px;
 	margin-left: 20px;
 	margin-right: 20px;
+	
 }
+
 
 .card-image{
     align-content: center;
@@ -158,4 +221,17 @@
 	color: black;
 	font-family:  Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
 		
+}
+  footer{
+	background: #d7abff;
+	color: #fff;
+	width: 100%;
+	height: 50px;
+	  position: absolute;
+	  top: 150%;
+}
+
+.text-center{
+	font-family: "Permanent Marker", "sans-serif";
+	color: #ffaaad;
 }
