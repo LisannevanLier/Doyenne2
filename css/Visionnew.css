@@ -1,22 +1,45 @@
 @charset "utf-8";
 .container{ font-family: "Permanent Marker", "sans-serif";
-	color: #ffaaad;}
+	color: #ffaaad;
+	font-size: 35px;
+
+	
+}
 
 .lead{
     font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
     color: #000000;
+	font-size: 25px;
 
 }
 
 .list-group{ font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
-    color: #000000;}
+    color: #000000;
+	font-size: 25px;
+}
 
 .textfooter{ 
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 
 }
 
-.footer{ 
-	background-color: #d7abff;
+.footer{
+    background-color: #d7abff;
+    text-align: center;
+    height: 40px;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    font-size: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
+.header{
+    text-align: center;
+    background-color: #FFAAAD;
+
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
