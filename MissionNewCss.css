@@ -1,0 +1,15 @@
+@charset "utf-8";
+.footer{
+    background-color: #d7abff;
+    text-align: center;
+    height: 40px;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    font-size: 15px;
+    padding-top: 10px;
+    margin-top: 35px;
+    line-height: 0px;
+}
+
+.header{
+    text-align: center;
+    background-color: #FFAAAD;
