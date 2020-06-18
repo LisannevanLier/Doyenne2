@@ -9,6 +9,16 @@
 .mybutt:hover { 
 	background-color: #ffaaad;	
 }
+a.nav-item.nav-link {
+    font-size: 26px; color: #000 !important;
+}
+footer {
+    background: #d7abff;
+    color: #fff;
+    width: 100%;
+    height: 50px;
+    top: 100%;
+}
 .mybutt { 
 	width: 200px;
 	height: 70px;
@@ -70,14 +80,7 @@
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 }
 
-.row{ 
-	   position: absolute;
-   top: 100%;
-   left: 50%;
-   width: 800px;
-   height: 500px;
-   margin-top: -250px; /* Half the height */
-   margin-left: -350px; /* Half the width */
+
 }
 
 .titleindex{

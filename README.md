@@ -1,2 +1,0 @@
-# Doyenne
- Group Website
