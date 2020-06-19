@@ -1,0 +1,33 @@
+@charset "utf-8";
+.footer{
+    background-color: #d7abff;
+    text-align: center;
+    height: 40px;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    font-size: 15px;
+    padding-top: 10px;
+    margin-top: 35px;
+    line-height: 20px;
+	color: #000000;
+}
+
+.card-header{
+    font-family: "Permanent Marker", "sans-serif";
+    color: #ffaaad;
+    font-size: 35px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;	
+}
+
+.card-text{ 
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    color: #000000;
+	font-size: 20px;
+	text-align: center;
+
+}
+
+.btn-primary{ 
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
