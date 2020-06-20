@@ -7,6 +7,10 @@
     margin-right: 30px;
 }
 
+ul.navbar-nav.ml-auto {
+  font-family: 'permanent-marker';
+}
+
 .lead{
     font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
     color: #000000;

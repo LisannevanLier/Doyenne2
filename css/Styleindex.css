@@ -2,6 +2,7 @@
 .menubar{ 
 	background-color: #D7ABFF; 
 }
+
 .navbutts { 
 	display: flex;
 	flex-direction: row;
@@ -131,6 +132,14 @@ a.nav-item.nav-link {
     text-align: center;
 }
 
+input {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+textarea {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
 .btn-outline-secondary{
 	align-items: center;
 	color: grey;
@@ -138,12 +147,17 @@ a.nav-item.nav-link {
 	font-family: "Amazing Infographic@"
 }
 
+a.btn.btn-primary {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+
 .card-imgindex{
 	align-items: center;
 }
 
 .card-text{
-	font-family: "Amazing Infographic@"
+        font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    }
 }
 
 .card-text2{
