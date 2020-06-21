@@ -2,6 +2,7 @@
 .menubar{ 
 	background-color: #D7ABFF; 
 }
+
 .navbutts { 
 	display: flex;
 	flex-direction: row;
@@ -11,6 +12,21 @@
 }
 a.nav-item.nav-link {
     font-size: 26px; color: #000 !important;
+}
+
+.mybutt { 
+	width: 200px;
+	height: 70px;
+	color: black;
+	font-size: 27px;
+	font-family: "Permanent Marker", "sans-serif";
+	text-color: #000000;
+	margin-right: 30px;
+	border-radius: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-left: 30px;
 }
 .footer{
     background-color: #d7abff;
