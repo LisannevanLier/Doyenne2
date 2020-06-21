@@ -2,6 +2,7 @@
 .menubar{ 
 	background-color: #D7ABFF; 
 }
+
 .navbutts { 
 	display: flex;
 	flex-direction: row;
@@ -12,12 +13,15 @@
 a.nav-item.nav-link {
     font-size: 26px; color: #000 !important;
 }
-footer {
-    background: #d7abff;
-    color: #fff;
-    width: 100%;
-    height: 50px;
-    top: 100%;
+.footer{
+    background-color: #d7abff;
+    text-align: center;
+    height: 40px;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    font-size: 15px;
+    padding-top: 10px;
+    margin-top: 35px;
+    line-height: 20px;
 }
 .mybutt { 
 	width: 200px;
@@ -128,6 +132,14 @@ footer {
     text-align: center;
 }
 
+input {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+textarea {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
 .btn-outline-secondary{
 	align-items: center;
 	color: grey;
@@ -135,12 +147,17 @@ footer {
 	font-family: "Amazing Infographic@"
 }
 
+a.btn.btn-primary {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+
 .card-imgindex{
 	align-items: center;
 }
 
 .card-text{
-	font-family: "Amazing Infographic@"
+        font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    }
 }
 
 .card-text2{
