@@ -16,7 +16,6 @@
 	height: 70px;
 	color: black;
 	font-size: 27px;
-	font-family: "Permanent Marker", "sans-serif";
 	text-color: #000000;
 	margin-right: 30px;
 	border-radius: 50px;
@@ -28,7 +27,6 @@
 
 
 .card-header{
-    font-family: "Permanent Marker", "sans-serif";
     color: #ffaaad;
     font-size: 35px;
     text-align: center;	
@@ -47,8 +45,7 @@
 }
 a.nav-item.nav-link {
     font-size: 26px; color: #000 !important;
-	font-family: "Permanent Marker"
-}
+
 
 a.nav-item {
     font-family: 'permanent-marker';
