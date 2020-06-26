@@ -176,6 +176,7 @@ body {
 
 h2 {
     font-family: "Permanent Marker", "sans-serif";
+	font-style: normal
 }
 
 p {
@@ -194,5 +195,11 @@ footer {
     display: block;
     padding-left: 20px;
 	padding-right: 20px;
+}
+
+.nav-item { font-family: permanent-marker, sans-serif;
+
+font-style: normal;
+
 }
 

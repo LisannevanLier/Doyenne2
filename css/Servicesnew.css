@@ -44,7 +44,7 @@
 	background-color: #ffaaad;	
 }
 a.nav-item.nav-link {
-    font-size: 26px; color: #000 !important;
+	font-size: 26px; color: #000 !important; } 
 
 
 a.nav-item {
@@ -62,5 +62,5 @@ a.nav-item {
 }
 
 .btn-primary{ 
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
-}
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"; } 
+	
