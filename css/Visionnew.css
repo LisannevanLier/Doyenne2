@@ -143,12 +143,12 @@ a.nav-item.nav-link {
 }
 
 @-webkit-keyframes fade {
-  from {opacity: .4}
+  from {opacity: .3}
   to {opacity: 1}
 }
 
 @keyframes fade {
-  from {opacity: .4}
+  from {opacity: .3}
   to {opacity: 1}
 }
 
