@@ -57,10 +57,7 @@ a.nav-item {
     font-size: 30px;
     text-align: center;
 }
-<<<<<<< HEAD
 
-
-=======
 .container {
 	display:inline-block;
     height:100%;
@@ -70,6 +67,13 @@ a.nav-item {
 .video{
     margin-top: 50px;
     text-align: center;
+            height: auto;
+            max-width: 100%;
+            border: none;
+            display: block;
+            padding: 5px 0;
+	
+} 
 
 .Textmission{
     text-align: center;
@@ -77,4 +81,3 @@ a.nav-item {
     margin-left: 40px;
     margin-right: 40px;
 }
-
