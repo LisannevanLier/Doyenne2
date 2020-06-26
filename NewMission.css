@@ -91,6 +91,7 @@ font-family: permanent-marker, sans-serif;
 font-style: normal;}
 
 .mission { 
-font-family: permanent-marker, sans-serif;
+font-family: "permanent-marker","sans-serif";
 
-font-style: normal;}
+font-style: normal;
+color: #ffaaadd;}
