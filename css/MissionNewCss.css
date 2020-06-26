@@ -47,4 +47,7 @@ a.nav-item.nav-link {
 	
 .card-title {
 font-family: "Permanent Marker", "sans-serif";
-	font-size: 20px;
+	font-size: 20px; } 
+
+.nav-item { font-family: "Permanent Marker", "sans-serif";
+font-style: normal;}
