@@ -192,5 +192,6 @@ footer {
     max-width: 100%;
     border: none;
     display: block;
-    padding: 10px 0;
+    padding-left: 20px;
+	padding-right: 20px;
 }
