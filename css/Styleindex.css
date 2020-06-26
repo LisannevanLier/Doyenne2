@@ -158,13 +158,14 @@ a.btn.btn-primary {
 .card-text{
         font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
     }
-}
+
 
 .card-text2{
 	color: black;
 	font-family:  Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
 		
 }
+
 
 body {
     background-color: #FDFDFD;
@@ -184,4 +185,9 @@ p {
 
 footer {
     font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+.ImageB{
+    max-width: 600px;
+    padding-left: 20px;
 }
