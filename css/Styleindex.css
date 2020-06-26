@@ -189,9 +189,8 @@ footer {
 
 .ImageB{
     height: auto;
-    width: 90%;
-    /* even more control with max-width */
-    max-width: 450px;
-    padding-left: 20px;
-    padding-right: 20px;
+    max-width: 100%;
+    border: none;
+    display: block;
+    padding: 10px 0;
 }
