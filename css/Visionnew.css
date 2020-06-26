@@ -152,7 +152,8 @@ a.nav-item.nav-link {
   to {opacity: 1}
 }
 
-h1 { font-family: "Permanent Marker", "sans-serif"}
+h1 { font-family: "Permanent Marker", "sans-serif";
+font-style: normal}
 
 .nav-item {  font-family: "Permanent Marker", "sans-serif"; 
 font-style: normal}
